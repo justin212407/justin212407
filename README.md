@@ -18,4 +18,5 @@ Aspiring coder with a strong enthusiasm for innovation and learning. Actively in
 
 ## HACKTOBERFEST'24:
 
-![image](https://github.com/user-attachments/assets/b5f56a49-7a2e-4a87-8f70-0e474f1a0516)
+![image](https://github.com/user-attachments/assets/cbd8ca3d-a932-4981-9b73-eaa6ecd2de74)
+
