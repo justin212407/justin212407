@@ -1,22 +1,26 @@
-<h1 align="center">Hi 👋, I'm Justin Charles</h1>
-<h4 align="center">
-Aspiring coder with a strong enthusiasm for innovation and learning. Actively involved in hackathons, open-source projects, and constantly exploring new challenges to grow as an all-rounder.</h3>
+I'm **Justin Charles**, a Computer Science student passionate about open source, cloud-native technologies, distributed systems, and building products that solve real-world problems. I enjoy collaborating with developers across the world, contributing to impactful projects, and continuously improving as a software engineer.
 
-## 🌐 Socials:
-<p align="center">
-<a href="mailto:charlesjustin2124@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/justin-c-663840297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justin-c-663840297" height="30" width="40" /></a>
+**The history so far**
 
-## 💻 Tech Stack:
-- <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><br>
+- Started programming in **2023**, initially learning web development before discovering open source through **Hacktoberfest**. What began as curiosity quickly turned into a passion for building software and contributing to communities that build technology used by thousands of developers.
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=justin212407&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=justin212407&theme=dark&hide_border=false)<br/>
+- Won **🥇 1st Place — LNM Hacks 6.0 (January 2024)**, marking my first major hackathon victory and the beginning of my competitive programming journey.
 
-## HACKTOBERFEST'24:
+- Started contributing to **[MusicBlocks-v4](https://github.com/sugarlabs/musicblocks-v4)** through **[Code for GovTech (C4GT)](https://codeforgovtech.in/)** with **[SugarLabs](https://github.com/sugarlabs)**, where I built the Masonry Module and contributed several features. I later became an active member of the organization and now serve as a **Google Summer of Code 2026 Mentor**, helping guide the next generation of contributors.
 
-![image](https://github.com/user-attachments/assets/cbd8ca3d-a932-4981-9b73-eaa6ecd2de74)
+- Selected for the **Linux Foundation LFX Mentorship 2026**, contributing to **[Kuadrant](https://github.com/Kuadrant/console-plugin)**, a CNCF project backed by Red Hat, where I'm building production-ready policy management interfaces for the OpenShift Console Plugin.
 
+- Selected for **[Code for GovTech 2026 (COSS)](https://codeforgovtech.in/)**, where I'm building data pipelines for fine-tuning and DPO training of production AI agents using real-world conversational data.
+
+**[ContriLab](https://contrilab.in)** - Alongside my friend **[Karan Palan](https://github.com/Karan-Palan)**, I built **[ContriLab](https://contrilab.in)** to make discovering and contributing to open source significantly easier.ContriLab brings together **Google Summer of Code organizations**, **Linux Foundation projects**, contribution roadmaps, learning resources, natural language repository search, open-source alternatives, and YC-backed open source startups—all from a single platform.
+
+Built with **Next.js**, **TypeScript**, **PostgreSQL**, **Prisma**, **Turborepo**, **Better Auth**, and **Playwright**, it's our way of giving back to the open source community, with many more features planned.
+
+- **Website:** https://contrilab.in
+- **GitHub:** https://github.com/ContriLab
+
+I've worked primarily with **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js**, **Express**, **Python**, **PostgreSQL**, **MongoDB**, **Docker**, **GitHub Actions**, **AWS**, and **Turborepo**, while also exploring cloud-native tooling, distributed systems, and modern developer infrastructure.
+
+I've worked with the **MERN** and **T3** stacks, explored **C++**, **Solidity**, and **Machine Learning**. I'm currently locked in for the next six months, practising algorithms, diving deep into CS fundamentals, distributed systems, and learning how to build great AI agents. I also enjoy reading non-fiction and sci-fi books.
+
+Feel free to connect with me on my socials—I'm always open to chat, collaborate on open source, or just geek out over cool technology.
