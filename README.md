@@ -12,7 +12,7 @@ I'm **Justin Charles**, a Computer Science student passionate about open source,
 
 - Selected for **[Code for GovTech 2026 (COSS)](https://codeforgovtech.in/)**, where I'm building data pipelines for fine-tuning and DPO training of production AI agents using real-world conversational data.
 
-**[ContriLab](https://contrilab.in)** - Alongside my friend **[Karan Palan](https://github.com/Karan-Palan)**, I built **[ContriLab](https://contrilab.in)** to make discovering and contributing to open source significantly easier.ContriLab brings together **Google Summer of Code organizations**, **Linux Foundation projects**, contribution roadmaps, learning resources, natural language repository search, open-source alternatives, and YC-backed open source startups—all from a single platform.
+**[ContriLab](https://contrilab.in)** - Alongside my **[friend](https://github.com/Karan-Palan)**, I built **[ContriLab](https://contrilab.in)** to make discovering and contributing to open source significantly easier.ContriLab brings together **Google Summer of Code organizations**, **Linux Foundation projects**, contribution roadmaps, learning resources, natural language repository search, open-source alternatives, and YC-backed open source startups—all from a single platform.
 
 Built with **Next.js**, **TypeScript**, **PostgreSQL**, **Prisma**, **Turborepo**, **Better Auth**, and **Playwright**, it's our way of giving back to the open source community, with many more features planned.
 
